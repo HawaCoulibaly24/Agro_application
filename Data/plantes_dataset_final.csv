@@ -1,0 +1,23 @@
+Nom,Famille,Cycle de vie,Besoins en eau (mm/cycle),Température min (°C),Température max (°C),Type de sol,Semis/Plantation (saison)
+rice,Poacées,Annuelle,1000-1500,20,35,argileux,Été
+maize,Poacées,Annuelle,500-700,18,35,sablé,Été
+chickpea,Fabacées,Annuelle,300-500,10,30,limoneux,Hiver
+kidneybeans,Fabacées,Annuelle,400-600,18,30,sablé,Été
+pigeonpeas,Fabacées,Annuelle,600-1000,20,35,sablo-limoneux,Été
+mothbeans,Fabacées,Annuelle,300-500,20,35,sablé,Été
+mungbean,Fabacées,Annuelle,500-700,18,35,sablo-limoneux,Été
+blackgram,Fabacées,Annuelle,500-700,18,35,sablé,Été
+lentil,Fabacées,Annuelle,300-500,10,25,limoneux,Hiver
+pomegranate,Lythracées,Pérenne,500-800,15,35,sablo-limoneux,Printemps
+banana,Musacées,Pérenne,1200-2200,20,35,argilo-limoneux,Printemps
+mango,Anacardiacées,Pérenne,800-1000,15,35,calcaire,Été
+grapes,Vitacées,Pérenne,500-700,10,30,sablé,Automne
+watermelon,Cucurbitacées,Annuelle,600-800,20,38,sablé,Été
+muskmelon,Cucurbitacées,Annuelle,400-600,20,35,sablé,Été
+apple,Rosacées,Pérenne,500-800,5,25,limoneux,Printemps
+orange,Rutacées,Pérenne,800-1000,13,35,sablo-limoneux,Printemps
+papaya,Caricacées,Pérenne,800-1000,18,35,sablé,Printemps
+coconut,Arécacées,Pérenne,1500-2500,21,32,sablo-argileux,Été
+cotton,Malvacées,Annuelle,700-1300,20,35,sablo-limoneux,Été
+jute,Malvacées,Annuelle,1200-1600,24,34,alluvial,Été
+coffee,Rubiacées,Pérenne,1200-1800,15,30,volcanique,Printemps
