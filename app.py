@@ -44,15 +44,15 @@ if show_plante:
 
 if show_sol:
     df_sol = pd.read_csv("Data/Crop_recommendation.csv")
-    st.subheader("🌱 Données Sol")
+    st.subheader("Données Sol")
     st.dataframe(df_sol)
 
 if show_meteo:
     df_meteo = pd.read_csv("data/meteo_wide_data(1).csv")
-    st.subheader("🌦️ Données Météo")
+    st.subheader("Données Météo")
     st.dataframe(df_meteo)
 
 if show_final:
     df_final = pd.read_csv("Data/df_final.csv")
-    st.subheader("🔗 Données Fusionnées Finales")
+    st.subheader("Données Fusionnées Finales")
     st.dataframe(df_final)
